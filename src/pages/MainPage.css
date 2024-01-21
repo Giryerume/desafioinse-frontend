@@ -1,0 +1,17 @@
+.tabela-escolas {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.busca {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  float: right;
+}
